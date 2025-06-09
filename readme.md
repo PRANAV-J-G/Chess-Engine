@@ -41,17 +41,14 @@ chess-engine/
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/PRANAV-J-G/Chess-Engine.git
 cd Chess-Engine
 
 ### 2. Install requirements
-```bash
 pip install -r requirements.txt
 
 ### 3. Run the flask application 
 
-```bash 
 python flask_app.py
 
 🧠 Algorithms
@@ -61,6 +58,5 @@ Alpha-Beta Pruning: Cuts off unnecessary branches to improve efficiency.
 
 Iterative Deepening: Performs repeated deepening of search to improve move ordering and pruning.
 
-![Screenshots of the final application](assests/image.png)
 
-![alt text](assets/image.png)
+![alt text](assets/image.png) 
