@@ -59,4 +59,6 @@ Alpha-Beta Pruning: Cuts off unnecessary branches to improve efficiency.
 Iterative Deepening: Performs repeated deepening of search to improve move ordering and pruning.
 
 
-![alt text](assets/image.png) 
+## Screenshot 
+
+![alt text](assets/Screenshot_20250609_120241.png)
