@@ -60,3 +60,7 @@ Minimax: Recursive brute-force game tree exploration.
 Alpha-Beta Pruning: Cuts off unnecessary branches to improve efficiency.
 
 Iterative Deepening: Performs repeated deepening of search to improve move ordering and pruning.
+
+![Screenshots of the final application](assests/image.png)
+
+![alt text](assets/image.png)
